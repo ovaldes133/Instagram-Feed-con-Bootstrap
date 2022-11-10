@@ -1,0 +1,53 @@
+.nav-tabs .nav-link {
+    width: 50px;
+}
+
+.nav-tabs {
+    border-bottom: 0px solid #dee2e6;
+}
+
+.fa-instagram:before {
+    font-size: 21px;
+}
+
+.d-flex {
+    position: relative;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+   
+}
+
+.modal-sm {
+    max-width: 28px;
+    display: inline-block;
+    margin-top: 4px;
+    border-color: white;
+   
+    
+}
+
+div.card .card-header div:first-child{
+    display: inline-block;
+    width: 80%;
+    
+ }
+
+ div.card .card-header div:last-child{
+    display: inline-block;
+    width: 17%;
+    padding: 1px;
+    text-align: right;
+    color: gray;
+ }
+
+ h2{
+    font-size: 20px;
+ }
+
+ .dropdown-item-log{
+    color: red;
+    padding-left: 20px;
+    text-decoration:none;
+ }
